@@ -1,0 +1,2 @@
+# System-Deployment-Tools
+在Windows系统下把Linux或android或Windows直接安装到本地/u盘等
